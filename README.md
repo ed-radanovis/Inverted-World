@@ -13,7 +13,7 @@
 <br>
 
 <div align="center">
- <a href="https://ed-radanovis.github.io/Currency-Converter/" >Click here to try it out .. thanks for your interest!</a>
+ <a href="https://ed-radanovis.github.io/Inverted-World/" >Click here to try it out .. thanks for your interest!</a>
  <p>( Select Ctrl + click for open in new tab )</p>
 </div>
 
