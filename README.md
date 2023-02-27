@@ -2,7 +2,8 @@
 
 <h2>Finished Bootcamp Front-end project</h2>
 <br>
-=> Result of the finished project. This project had as its main objective, the creation of a Landing page, with the theme of the series "Stranger Things". The highlight of this website is the JS resource that changes the background, images, background sound, and texts when clicking on the button.
+=> Result of the finished project. This project had as its main objective, the creation of a Landing page, with the theme of the series "Stranger Things".
+   The highlight of this website is the JS resource that changes the background, images, background sound, and texts when clicking on the button.
 <br>
 <br>
 <div align="center">
